@@ -1,0 +1,165 @@
+[
+  {
+    "id": "01",
+    "catID": "01",
+    "title": "Professional graphic design",
+    "auhor": "Mr. Devdas",
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiZCR4xFxIRnTXEHRnWIpTlWYz9k16s2KNZw&usqp=CAU",
+    "free": true,
+    "details": "Being a successful graphic designer requires quality curriculum training as well as project-based work experience and a good understanding of the marketplace. So all these are included together in our course module. From the graphic design course you will learn to design any advertisement, banner, t-shirt design, product using Adobe Photoshop and Adobe Illustrator. Moreover, you get the opportunity to use modern lab for project based work. By completing the course this way, you will have practical work experience, which will help you to achieve quick success in the marketplace."
+  },
+  {
+    "id": "02",
+    "catID": "01",
+    "title": "Motion graphics",
+    "auhor": "Rustom Ali",
+    "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662552115.jpg",
+    "free": true,
+    "details": "Elements of graphic design are presented in motion graphics through film or video production. For example, a motion graphics designer makes the short broadcasting video before the news broadcast on any TV channel. So ourGraphic Design CourseDesigned from the basics of graphic design. From this course you can learn 2D and 3D Motion Graphics; through which you easilyAny social media adcan make Moreover, you will learn the details of video editing, which will be helpful for you in making any commercial video. And the details of the animation are there."
+  },
+  {
+    "id": "03",
+    "catID": "01",
+    "title": "UX/UI Design",
+    "auhor": "Abbas ali",
+    "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662637290.jpg",
+    "free": false,
+    "details": "Where an app or site can have what options are designed through UX/UI Design. Demand for UX/UI designers has also increased hundreds of times for smart work and good salary. So our course will cover you with basic sketching. Learn how to create a flowchart for designing a website, app or banner here. You will learn the use of trendy software Adobe XD and Figma for UX/UI from this course. Moreover, by completing the course projects, you can create your portfolio at the end of the course from the class itself. This portfolio will be the milestone of your skills at the beginning of your career."
+  },
+  {
+    "id": "04",
+    "catID": "01",
+    "title": "Digital Image Editing",
+    "auhor": "Akkas",
+    "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663051206.jpg",
+    "free": false,
+    "details": "After completing image editing course, you can work in 1000+ clipping industries of the country, starting from internationally renowned e-commerce platforms to wedding photography, merchandise photography.So in our image editing course, from the basic concept of image editing to Image Retouching, Layer Pallet, Tools Based Class, Business Card Design, Facebook Cover Design, our course is arranged with everything important. Moreover, if you successfully complete this 3-month course, you can get a course completion certificate, which will serve as a milestone for your skills. So if you want to become a skilled image editor, then our image editing course can be your first choice."
+  },
+  {
+    "id": "05",
+    "catID": "01",
+    "title": "Adobe Photoshop",
+    "auhor": "Jorina Begum",
+    "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662639286.jpg",
+    "free": true,
+    "details": "Do you want to be a professional photo editor? Then you must know the details of Adobe Photoshop. That's why in our course you will learn to create Advanced Web Templates starting from Image Resize. Moreover, for learning Photoshop, every step of Advanced Image Retouching, Banner, Poster, Flyer Design is taught by hand here. And the work of neck joint (Neck Joint), image masking (Image Masking), drop shadow (Drop Shadow) remains. Our skilled mentors emphasize Photoshop shortcuts for all methods. This way you can become a Photoshop expert with daily practice."
+  },
+  {
+    "id": "06",
+    "catID": "02",
+    "title": "Web design",
+    "auhor": "Mojo Man",
+    "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662791772.jpg",
+    "free": true,
+    "details": "A web designer designs the entire navigation system, text, files, images, audio, video where to be in which part of a website. So to become a skilled web designer requires long term practice under quality organization.That's why our web design course is designed to combine coding and creativity. Here every subject is taught by hand in class. Moreover, you are repeatedly familiarized with the entire process with homework or practice work. As a result, at the end of the course, you will be able to design a website yourself. And this certified web design course will serve as a reminder of your skills in your career."
+  },
+  {
+    "id": "07",
+    "catID": "02",
+    "title": "Web development",
+    "auhor": "Pepsi man",
+    "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663052056.jpg",
+    "free": true,
+    "details": "Web development is the process of making the information stored on the web server as a website through the Internet and making it usable. So as long as there are websites, there will be demand for web development. That is why the scope of work of web developers is increasing day by day."
+  },
+  {
+    "id": "08",
+    "catID": "02",
+    "title": "Maran Stack Development",
+    "auhor": "Potata ali",
+    "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662795698.jpg",
+    "free": false,
+    "details": "ddIn computer software and application development, a full-stack developer is a person who has the skills to manage, project plan, and develop front-end, back-end, and software code. So our course is designed in such a way that after completing the course you can work as a web designer, web developer, app developer, backend developer or even a stack developer. From developing the concept to the necessary coding and database, we have everything in this course. Creative IT Institute has friendly mentors to ease the difficult journey of your Maran Stack. Opt for the Certified Maroon Stack Development Course to build a career with the times."
+  },
+  {
+    "id": "09",
+    "catID": "02",
+    "title": "App development",
+    "auhor": "Jorina",
+    "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663052092.jpg",
+    "free": true,
+    "details": "App development is the process of creating applications for use on mobile devices. Among the careers that are in demand in the new era, Android app development tops the list. That's why our courses are designed in such a way that you can learn app development with us from scratch. Here you will get a good idea about components with packages from elementary language. Moreover, students will build a good portfolio before completing the project based Android app development course. So you can get a good start in your career quickly. So if you have a unique app idea, then you can easily create a good Android app by taking this course."
+  },
+  {
+    "id": "10",
+    "catID": "03",
+    "title": "Affiliate Marketing",
+    "auhor": "Akkas ali sordar",
+    "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663052131.jpg",
+    "free": true,
+    "details": "Our affiliate marketing course will help you increase sales and understand marketing strategies. Also, you can learn everything in detail about how to choose the right topic for you and create a website from this course. Moreover, you will get an idea about the market trends from the research process in the course. The most important thing is that you will get the guidance of skilled mentors here. So Creative IT Institute's doors are always open for you to become a successful affiliate marketer."
+  },
+  {
+    "id": "11",
+    "catID": "03",
+    "title": "Google Adsense",
+    "auhor": "XincB",
+    "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663052296.jpg",
+    "free": true,
+    "details": "Google AdSense advertises on a website, blogsite or YouTube channel depending on the quality of the content and the number of visitors. In this way, the owner of the platform gets money by advertising Google on any website, blog site or YouTube channel. But to work here, you need to know the rules and regulations along with the detailed work. So our courses teach details of PPC or Pay-per-click including keyword research, AdSense friendly content writing, website and YouTube monetization. Moreover, you will get guidelines or mapping from the mentors to learn how to make your own place in the marketplace. Enroll today in our Google Adsense course to learn more about Adsense."
+  },
+
+  {
+    "id": "12",
+    "catID": "03",
+    "title": "Search Engine Optimization (SEO)",
+    "auhor": "Ananta jalil",
+    "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662962744.jpg",
+    "free": false,
+    "details": "According to a survey, most businesses spend more than $5,000 per month on SEO alone. Because by SEO every page of any website is brought to the first place of search results in different search engines based on specific keywords. So the success of your blog site, website or video channel depends on proper SEO. By learning SEO, you can earn good income in addition to freelancing in the freelance marketplace."
+  },
+  {
+    "id": "13",
+    "catID": "04",
+    "title": "Interior and exterior design",
+    "auhor": "Jhorna khatun",
+    "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663052405.jpg",
+    "free": false,
+    "details": "Making use of every space through the proper use of furniture, lights, furnishings to present a home, office or any institution in a comfortable and aesthetic way is called interior design. And when the outside environment is planned or designed, it is exterior design. Interior and exterior design in the modern era is a combination of art and technology."
+  },
+  {
+    "id": "14",
+    "catID": "04",
+    "title": "3D Product Modeling",
+    "auhor": "Jorina",
+    "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663052435.jpg",
+    "free": true,
+    "details": "Mokhles Ambani"
+  },
+  {
+    "id": "15",
+    "catID": "05",
+    "title": "Be an ethical 'hacker'",
+    "auhor": "Arfin Shuvo",
+    "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662805700.jpg",
+    "free": true,
+    "details": "Our course is designed in such a way that you learn the ins and outs of cyber security from scratch. Even if you are from non-technical background, you can easily do this course if you have interest. From the basics of network scanning to trendy topics like cryptography, you can learn from this course. Moreover, you can learn the details of amazing things like system hacking, web or mobile platform hacking with various tools and techniques from the course. And if the course is completed properly, the certificate remains."
+  },
+  {
+    "id": "16",
+    "catID": "06",
+    "title": "Cisco CCNA",
+    "auhor": "DA Tayeb",
+    "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663052637.jpg",
+    "free": true,
+    "details": "CCNA is primarily a training course for those who are interested in working with computer networks or who want to pursue a career in the networking sector. Working in the networking industry, having a CCNA certification means that one is suitable for any entry-level job in the sector. So Creative IT's CCNA certification will help lay the foundation of your IT career. CCNA is a step-by-step pathway to other Cisco certifications. The course is designed in such a way that you can learn everything from the basics of networking to advanced with subnetting, routers. By completing this certified course with a skilled mentor, you will be ahead of others in the field of work. So enroll in Cisco CCNA course today to open the doors of possibilities in your IT career."
+  },
+  {
+    "id": "17",
+    "catID": "07",
+    "title": "Professional video editing",
+    "auhor": "Abdul Aziz",
+    "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663664208.png",
+    "free": true,
+    "details": "According to a survey, an engaging video increases sales by up to 78 percent. But good video editing is a prerequisite for good video. Because a skilled editor can present even a simple concept in a great way through extraordinary editing. That's why the demand for professional video editors in various companies around the world has increased a lot."
+  },
+  {
+    "id": "18",
+    "catID": "08",
+    "title": "Spoken English",
+    "auhor": "Ananta Pom Gana",
+    "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663654149.jpg",
+    "free": true,
+    "details": "Are you afraid to speak English? Shame? Do not understand how to start speaking English? No worries! You too can conquer the fear of speaking in English by taking Creative IT Institute's Spoken English Course. As well as learning basic English from our courses, you will also learn the vocabulary most commonly used in business or the workplace. This course will give you a detailed idea of ​​how to present in English in a formal meeting or presentation. Learn about the correct tone and pronunciation of English from the course classes. Moreover, practice classes are kept for adequate practice, which will make you confident in using English. So enroll in our Spoken English Course today to learn practical Spoken English."
+  }
+]
