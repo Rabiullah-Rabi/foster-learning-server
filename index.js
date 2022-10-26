@@ -28,3 +28,5 @@ app.get("/course/:id", (req, res) => {
 app.listen(port, () => {
   console.log("port is ", port);
 });
+
+module.exports = app;
