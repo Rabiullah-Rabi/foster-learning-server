@@ -1,0 +1,46 @@
+[
+  {
+    "id": "01",
+    "name": "Design and Multimedia"
+  },
+  {
+    "id": "02",
+    "name": "Web and Software"
+  },
+  {
+    "id": "03",
+    "name": "Digital Marketing"
+  },
+  {
+    "id": "04",
+    "name": "3D animation"
+  },
+  {
+    "id": "05",
+    "name": "Cyber Security"
+  },
+  {
+    "id": "06",
+    "name": "Networking Technologies"
+  },
+  {
+    "id": "07",
+    "name": "Film and Media"
+  },
+  {
+    "id": "08",
+    "name": "English Language"
+  },
+  {
+    "id": "09",
+    "name": "Robotics"
+  },
+  {
+    "id": "10",
+    "name": "Cloud Computing"
+  },
+  {
+    "id": "11",
+    "name": "All"
+  }
+]
